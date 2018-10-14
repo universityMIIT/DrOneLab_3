@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f9ada2-9f8e-48c4-98ea-ed19f4b65c4c" name="Default Changelist" comment="Test">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrOneLab_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LocaleExeption/BadArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Octal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,13 +34,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="2211" />
+          <entry key="java" value="2233" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2211" />
+          <entry key="JAVA" value="2233" />
           <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
@@ -82,8 +71,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/company/CArray.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="268">
-                  <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+                <state relative-caret-position="222">
+                  <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -164,8 +153,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
-    <option name="y" value="112" />
+    <option name="x" value="112" />
+    <option name="y" value="223" />
     <option name="width" value="974" />
     <option name="height" value="952" />
   </component>
@@ -179,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539549948730" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539550932193" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -219,12 +208,12 @@
       <updated>1539462811242</updated>
       <workItem from="1539462815651" duration="9238000" />
       <workItem from="1539540350573" duration="6817000" />
-      <workItem from="1539548680451" duration="1268000" />
+      <workItem from="1539548680451" duration="1996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17323000" />
+    <option name="totallyTimeSpent" value="18051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="112" width="974" height="952" extended-state="0" />
@@ -309,8 +298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        <state relative-caret-position="222">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
