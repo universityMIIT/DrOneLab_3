@@ -27,7 +27,10 @@ class CArray implements Array
 		radix = 1;
 		zeroing();
 	}
+	public void lol()
+	{
 	
+	}
 	public
 	CArray( long initValue, byte radix )
 	{
